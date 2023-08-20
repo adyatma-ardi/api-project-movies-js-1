@@ -1,1 +1,1 @@
-# api-project-movies-js-1
+# API Projects (OMDBAPI) movies using AJAX
